@@ -1,5 +1,5 @@
 
-# HR App
+# Employee Management App
 
 Sample project for an employee management application.
 
